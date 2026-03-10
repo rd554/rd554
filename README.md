@@ -1,10 +1,10 @@
 # Hi, I'm Ravi 👋
 
-AI Product Builder | Technical Product Manager
+AI Product Builder 
 
-I build experimental AI products that explore how autonomous agents, behavioral systems, and intelligent interfaces can improve everyday decision-making.
+I build experimental AI products and LLM applications that explore agentic systems, behavioral intelligence, and human-AI interaction.
 
-Most of my work focuses on building real working prototypes — testing ideas around agentic systems, financial behavior modeling, and human-AI interaction.
+Most of my work focuses on building working prototypes — testing ideas around AI agents, decision-support systems, and intelligent product interfaces.
 
 ---
 
